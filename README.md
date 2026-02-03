@@ -37,7 +37,7 @@ Un repositorio de introducción a Flutter que incluye un proyecto pequeño y una
 Antes de comenzar, asegúrate de tener:
 
 - Windows 10 (64-bit) o Windows 11
-- Al menos 2 GB de espacio libre en disco
+- Al menos 10 GB de espacio libre en disco
 - Conexión a Internet estable
 
 ---
